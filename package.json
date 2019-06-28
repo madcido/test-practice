@@ -1,0 +1,21 @@
+{
+  "name": "test-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalize.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madcido/test-practice.git"
+  },
+  "author": "Fabio Carmo / Burhan Tuerker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madcido/test-practice/issues"
+  },
+  "homepage": "https://github.com/madcido/test-practice#readme"
+}
