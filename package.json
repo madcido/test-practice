@@ -4,9 +4,11 @@
   "description": "",
   "main": "capitalize.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
   "scripts": {
-    "test": "jest --watch *.js"
+    "test": "jest --watch ./test/*.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/madcido/test-practice/issues"
   },
-  "homepage": "https://github.com/madcido/test-practice#readme"
+  "homepage": "https://github.com/madcido/test-practice#readme",
+  "directories": {
+    "test": "test"
+  }
 }
